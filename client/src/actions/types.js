@@ -1,0 +1,14 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const CREATE_STREAM = 'CREATE_STREAM';
+export const FETCH_STREAMS = 'FETCH_STREAMS';
+export const FETCH_STREAM = 'FETCH_STREAM';
+export const DELETE_STREAM = 'DELETE_STREAM';
+export const EDIT_STREAM = 'EDIT_STREAM';
+export const CREATE_PERSON = 'CREATE_PERSON';
+export const EDIT_HOLDING = 'EDIT_HOLDING';
+export const CURRENT_PERSON = 'CURRENT_PERSON';
+export const GET_STOCK_INFO = 'GET_STOCK_INFO';
+export const CHANGE_COMPANY = 'CHANGE_COMPANY';
+export const SAVE_TRANSACTION = 'SAVE_TRANSACTION';
+export const FETCH_STOCKS = "FETCH_STOCKS";
